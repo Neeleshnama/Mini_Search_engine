@@ -1,0 +1,60 @@
+Index: 78090
+"Why should I apologise to Vijay?" - Meera Mitun questions Vivek! - Tamil News https://www.indiaglitz.com/meera-mitun-ask-vivek-why-to-apologise-to-vijay-tamil-news-267362
+Cosine Similarity: 0.40755199594534847
+Precision: 1.0
+Recall: 0.1
+--------------------------------------------------
+Index: 34217
+"Don't compare with Vijay" - Vivek's sensible reply to Meera Mitun! - Tamil News https://www.indiaglitz.com/vivek-reply-meera-mitun-dont-compare-with-vijay-tamil-news-267292
+Cosine Similarity: 0.39051360431009025
+Precision: 1.0
+Recall: 0.2
+--------------------------------------------------
+Index: 40213
+Sacramento Kings' Vivek Ranadive thinks voting should be 'as easy as ordering an Uber' https://www.espn.com/nba/story/_/id/29645880/kings-vivek-ranadive-thinks-voting-easy-ordering-uber
+Cosine Similarity: 0.3708849113702768
+Precision: 1.0
+Recall: 0.3
+--------------------------------------------------
+Index: 42206
+Review: Identity and grief entwine in Akwaeke Emezi wrenching 'The Death of Vivek Oji' https://www.usatoday.com/story/entertainment/books/2020/08/03/death-vivek-oji-akwaeke-emezi-wrenching-beautiful/5575425002/
+Cosine Similarity: 0.36873434935921645
+Precision: 1.0
+Recall: 0.4
+--------------------------------------------------
+Index: 101049
+Vivek requests Meera Mithun to openly apologize to Vijay and Mahesh Babu! https://www.sify.com/movies/vivek-requests-meera-mithun-to-openly-apologize-to-vijay-and-mahesh-babu-news-tamil-uimkpjdbbabfe.html
+Cosine Similarity: 0.33461958976450956
+Precision: 1.0
+Recall: 0.5
+--------------------------------------------------
+Index: 63655
+Interview: Akwaeke Emezi https://www.npr.org/2020/08/03/898545741/vivek-oji-is-very-much-alive-in-this-boundary-breaking-new-novel
+Cosine Similarity: 0.3011681834172608
+Precision: 1.0
+Recall: 0.6
+--------------------------------------------------
+Index: 108266
+The Safest And Most Affordable Used Cars For Teens https://www.forbes.com/sites/tanyamohn/2020/08/02/the-safest-and-most-affordable-used-cars-for-teens/
+Cosine Similarity: 0.0
+Precision: 1.0
+Recall: 0.7
+--------------------------------------------------
+Index: 36084
+South Africa sees dip in new virus cases but warns of return https://www.washingtonpost.com/world/africa/south-africa-sees-dip-in-new-virus-cases-but-warns-of-return/2020/08/05/3a68abb8-d6f4-11ea-a788-2ce86ce81129_story.html
+Cosine Similarity: 0.0
+Precision: 1.0
+Recall: 0.8
+--------------------------------------------------
+Index: 36083
+Report: Talks Underway To Keep Shane Duffy In Premier League https://www.balls.ie/football/shane-duffy-brighton-west-brom-443574
+Cosine Similarity: 0.0
+Precision: 1.0
+Recall: 0.9
+--------------------------------------------------
+Index: 36082
+Nathan Cleary https://www.dailytelegraph.com.au/subscribe/news/1/?nk=44a9dc3eef6978971e4408fb5bf10c2f-1596489169
+Cosine Similarity: 0.0
+Precision: 1.0
+Recall: 1.0
+--------------------------------------------------
